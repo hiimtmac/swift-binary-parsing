@@ -1,4 +1,4 @@
-// swift-tools-version: 6.2
+// swift-tools-version: 6.4
 //===----------------------------------------------------------------------===//
 //
 // This source file is part of the Swift Binary Parsing open source project
@@ -26,7 +26,7 @@ let package = Package(
     .package(
       url: "https://github.com/apple/swift-argument-parser", from: "1.8.0"),
     .package(
-      url: "https://github.com/swiftlang/swift-syntax.git", from: "603.0.0"),
+      url: "https://github.com/swiftlang/swift-syntax.git", from: "604.0.0"),
     .package(
       url: "https://github.com/pointfreeco/swift-macro-testing.git",
       from: "0.6.5"),
